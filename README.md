@@ -64,7 +64,7 @@ Data Persistence: Records are saved locally in a purchases.json file.
 💡 How to Run Locally
 Clone the Repository:
 
-git clone []
+git clone [gh repo clone Keerthu0911/ShopSmart-Purchase-Optimizer]
 cd ShopSmart-Optimizer
 
 Run the script:
